@@ -1,0 +1,7 @@
+C:\Users\Administrador\source\repos\TallerPractico1_CritterCombat\TallerPractico1_CritterCombat\bin\Debug\TallerPractico1_CritterCombat.exe.config
+C:\Users\Administrador\source\repos\TallerPractico1_CritterCombat\TallerPractico1_CritterCombat\bin\Debug\TallerPractico1_CritterCombat.exe
+C:\Users\Administrador\source\repos\TallerPractico1_CritterCombat\TallerPractico1_CritterCombat\bin\Debug\TallerPractico1_CritterCombat.pdb
+C:\Users\Administrador\source\repos\TallerPractico1_CritterCombat\TallerPractico1_CritterCombat\obj\Debug\TallerPractico1_CritterCombat.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\TallerPractico1_CritterCombat\TallerPractico1_CritterCombat\obj\Debug\TallerPractico1_CritterCombat.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\TallerPractico1_CritterCombat\TallerPractico1_CritterCombat\obj\Debug\TallerPractico1_CritterCombat.exe
+C:\Users\Administrador\source\repos\TallerPractico1_CritterCombat\TallerPractico1_CritterCombat\obj\Debug\TallerPractico1_CritterCombat.pdb
