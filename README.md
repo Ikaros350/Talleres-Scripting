@@ -1,6 +1,8 @@
 # Talleres-Scripting
 Integrantes de este trabajo
+
 Julian Jaramillo Vargas
+
 Santiago Cortes Monsalve
 
 Cosideraciones a la hora de realizar el trabajo:
