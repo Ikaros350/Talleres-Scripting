@@ -17,7 +17,7 @@ Se tomo la decisión de utilizar un diseño de clases adicionales, con respecto 
 Se decidió el uso de arreglos para almacenar estas afinities entre todas las demás estructuras de datos, debido a que en el diseño que se nos entregó, 
 ya conocíamos un tamaño especifico de affinities, y no se mencionó que este podía ser expandible, por ende, el uso de fue una solución rápida y fácil de implementar
 
-Las clases que agregamos son [Affinity]; esta clase se encarga de almacenar en un arreglo las afinidades y el multiplicador de affinity en los combates.
+La clase que agregamos fue [Affinity]; esta clase se encarga de almacenar en un arreglo las afinidades y el multiplicador de affinity en los combates.
 
 Se decidió crear una clase abstracta llamada [Skill] la cual tenía como atributos, el nombre y el poder de la habilidad, no se incluyó la afinidad en esta super-clase 
 debido a que las SupportSkill no afectaban en nada que tuviera o no el atributo affinity, por ende, decidimos no sobre cargar esa clase con un atributo que no se usaría. 
