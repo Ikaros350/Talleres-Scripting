@@ -27,7 +27,7 @@ ya conocíamos un tamaño especifico de affinities, y no se mencionó que este p
 La clase que agregamos fue [Affinity]; esta clase se encarga de almacenar en un arreglo las afinidades y el multiplicador de affinity en los combates.
 
 Se decidió crear una clase abstracta llamada [Skill] la cual tenía como atributos, el nombre y el poder de la habilidad, no se incluyó la afinidad en esta super-clase 
-debido a que las SupportSkill no afectaban en nada que tuviera o no el atributo affinity, por ende, decidimos no sobre cargar esa clase con un atributo que no se usaría. 
+debido a que [SupportSkill] no le afectaban en nada que tuviera o no el atributo affinity, por ende, decidimos no sobre cargar esa clase con un atributo que no se usaría. 
 A partir de esta se generaron dos sub-clases [AttackSkill] y [SupportSkill], las cuales heredaban los atributos de la super clase [Skill], pero los implementaban 
 específicamente en el constructor. Además, la clase [AttackSkill] contenía un atributo adicional llamado affinity, debido a que el diseño que se nos fue entregado 
 necesitaba la affinity de dicha clase.
