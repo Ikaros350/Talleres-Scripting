@@ -34,7 +34,7 @@ necesitaba la affinity de dicha clase.
 
 
 En la clase [Critter] se tomó la decisión de generar 3 atributos adicionales llamados (currentSpd, currentAtq, currentDef); los cuales actúan como los stats alterables 
-en combate, sin contar el Hp de la clase [Critter},tomamos esta decisión, debido a que el diseño necesitaba conservar los valores base de cada estadística del [Critter], 
+en combate, sin contar el Hp de la clase [Critter}, tomamos esta decisión, debido a que el diseño necesitaba conservar los valores base de cada estadística del [Critter], 
 y se hizo una analogía con el juego de Pokémon en el que usan atributos temporales en cada combate
 
 Gracias profe que bonitas 12 horas pero igual estuvo entretenido el trabajo :), ademas gracias por la resolvernos las dudas a pesar de la hora.
